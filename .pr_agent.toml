@@ -1,5 +1,9 @@
 [github_app]
-
+pr_commands = [
+    "/describe",
+    "/review",
+    "/improve",
+]
 
 [pr_reviewer] # /review #
 # enable/disable features
