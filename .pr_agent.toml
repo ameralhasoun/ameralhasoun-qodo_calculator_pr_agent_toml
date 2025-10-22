@@ -1,3 +1,9 @@
+[github_app]
+pr_commands = [
+    "/review"
+]
+
+
 [pr_reviewer] # /review #
 # enable/disable features
 require_estimate_effort_to_review=false
