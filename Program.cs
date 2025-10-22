@@ -5,9 +5,9 @@ namespace Example
     public class Calculator
     {
         // Adds two integer numbers and returns their sum
-        public int AddNumbers(int a, int b)
+        public int AddNumbers(int num1, int num2)
         {
-            return a + b;
+            return num1 + num2;
         }
     }
 
