@@ -1,8 +1,11 @@
 [github_app]
 pr_commands = [
+   "/describe",
     "/review",
-    ...
+    "/improve",
+    "/compliance",
 ]
+
 [pr_reviewer] # /review #
 # enable/disable features
 require_estimate_effort_to_review=false
